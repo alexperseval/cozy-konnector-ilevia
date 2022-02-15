@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "git@github.com:alexperseval/cozy-konnector-ilevia.git"
+    "url": "git@github.com:konnectors/cozy-konnector-ilevia.git"
   },
   "keywords": [],
   "author": "Alexandre Perseval",
